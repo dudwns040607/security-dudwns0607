@@ -29,8 +29,8 @@ export default async function Home() {
         <a className="brand" href="#top" aria-label="홈으로">
           <span className="brand-mark">S</span>
           <span className="brand-text">
-            <strong>보안 포트폴리오</strong>
-            <small>Security · Gams</small>
+            <strong>92313673 조영준</strong>
+            <small>Security</small>
           </span>
         </a>
         <nav className="menu" aria-label="페이지 이동">
